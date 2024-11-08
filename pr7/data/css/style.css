@@ -1,0 +1,52 @@
+body{
+  background-color: #eec375;
+}
+
+h1 {
+  text-align: center;
+  background-color: #000000;
+  color: orange;
+  border-radius: 10px;
+}
+
+.required-input {
+  color: red;
+}
+
+.error {
+  font-weight: bold;
+  color: red;
+}
+
+.success {
+  font-weight: bold;
+  color: rgb(0 206 52);
+}
+
+.user-image-or-text:hover {
+  box-shadow: 0 0 5px rgb(0 0 0);
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+td {
+  word-wrap: break-word;
+}
+
+table,
+th,
+td {
+  text-align: center;
+  border: 2px solid black;
+}
+
+img {
+  max-width: 100%;
+}
+
+img::after {
+  content: none;
+}

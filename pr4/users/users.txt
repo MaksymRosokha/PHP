@@ -1,0 +1,6 @@
+max||$2y$10$gvlEODILp//31.OVjdv1N.5lu4ClmxXuFQYSCsam4GBJ5Pgqz./du||max.jpg||admin||c.rosokha.maksym@student.uzhnu.edu.ua||96 940 9811||чоловік
+vasia||$2y$10$D91Beg0H3HbW.gXGbsuVAe06xCe1F5Q1A5M3sDQw88v.dAw5WUIvi||vasia.jpg||moder||vasia@gmail.com||96 940 9811||чоловік
+masha||$2y$10$F0V4pQemuuXQ1aqOjFooNuPF3UIGcCyqzT4p4GOYsAaYjqU7awDmq||masha.jpg||moder||masha@gmail.com||96 453 8428||жінка
+petro||$2y$10$GE9S9Kp.UUVKVFPvAW2A9u4frL8.pUHcJs00b0tEEx61659uOgMgC||petro.jpg||user||petro@gmail.com||68 950 3231||не визначився
+angelina||$2y$10$25FIqcfc9KB0w/8rNMI6Jugqra6AAlR2KlYLCcD.Oc3klDodBEsMC||angelina.jpg||user||angelina@gmail.com||63 350 4767||інше
+Gregory||$2y$10$mbB7AY1OViaB.r5flT8LB.i5VEQqdwyn3oZA5cxOWoxRvITQ6OkXu||Gregory.jpg||user||gregory@gmail.com||68 934 2402||чоловік

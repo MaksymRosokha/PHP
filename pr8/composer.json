@@ -1,0 +1,26 @@
+{
+    "name": "rosokha/pr8",
+    "description": "Practical work number 8",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/config/routes.php",
+            "src/config/helper.php"
+        ],
+        "psr-4": {
+            "Rosokha\\App\\" : "src/",
+            "Rosokha\\DB\\" : "src/core/database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rosokha Maksym",
+            "email": "c.rosokha.maksym@student.uzhnu.edu.ua"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "ext-pdo": "*"
+    }
+}

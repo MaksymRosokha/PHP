@@ -1,0 +1,26 @@
+{
+  "name": "arakviel/mvc-starter",
+  "description": "Clean MVC PHP starter",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "App/Config/helper.php",
+      "App/Config/routes.php"
+    ],
+    "psr-4": {
+      "Arakviel\\App\\": "App/",
+      "Arakviel\\DB\\": "App/Core/Database/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vereshchagin Olexander",
+      "email": "olexanoleksand.vereshchahin@uzhnu.edu.ua"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "ext-pdo": "*"
+  }
+}

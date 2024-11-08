@@ -1,0 +1,7 @@
+{
+  "type": "mysql",
+  "dbname": "pgk_college",
+  "host": "localhost",
+  "user": "root",
+  "password": ""
+}

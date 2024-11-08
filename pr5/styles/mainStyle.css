@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgba(38, 0, 96, 0.69);
+    font-size: 250%;
+    font-family: Arial;
+    font-weight: 900;
+}
+
+h2 {
+    text-align: center;
+    color: rgba(38, 0, 96, 0.69);
+    font-family: Arial;
+    font-weight: 900
+}
+
+body {
+    background: rgba(87, 11, 143, 0.8);
+}
+header {
+    background-color: rgba(87, 11, 143, 0.4);
+    border-radius: 25px;
+}
+
+
+
+img {
+    width: 10%;
+    height: 10%;
+}
+#showWeather {
+    padding: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.49);
+}
+
+.error {
+    color: red;
+}

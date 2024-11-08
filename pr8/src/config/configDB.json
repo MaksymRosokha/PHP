@@ -1,0 +1,7 @@
+{
+  "type": "mysql",
+  "dbname": "pr8_todo_list",
+  "host": "localhost",
+  "user": "root",
+  "password": ""
+}

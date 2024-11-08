@@ -1,0 +1,7 @@
+{
+    "type": "mysql",
+    "dbname": "guest_book",
+    "host": "localhost",
+    "user": "root",
+    "password": ""
+}
